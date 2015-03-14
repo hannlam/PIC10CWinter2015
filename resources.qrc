@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images/icons">
+        <file>heart.png</file>
+        <file>pikachu.png</file>
+        <file>thunderstone.png</file>
+        <file>pokeball.png</file>
+        <file>chansey.png</file>
+        <file>thunderbolt.png</file>
+        <file>bolt.png</file>
+        <file>bulb.png</file>
+        <file>char.png</file>
+        <file>pika.png</file>
+        <file>squirt.png</file>
+        <file>charmander.gif</file>
+        <file>squirtle.gif</file>
+        <file>bulbasaur.gif</file>
+        <file>pokedex_lights.png</file>
+        <file>title.png</file>
+        <file>firestone.png</file>
+        <file>leafstone.png</file>
+        <file>waterstone.png</file>
+        <file>fire.png</file>
+        <file>leaf.png</file>
+        <file>splash.png</file>
+        <file>water.png</file>
+        <file>flame.png</file>
+        <file>vine.png</file>
+        <file>unicorn.png</file>
+        <file>rainbow_stone.png</file>
+        <file>progress_bar.png</file>
+        <file>togepi.png</file>
+        <file>sad.jpg</file>
+    </qresource>
+</RCC>
